@@ -1,2 +1,2 @@
 [![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=neo-fetch&bg_color=0,141e30,0f141e&title_color=fff&text_color=fff&show_icons=true)](https://github.com/neo-fetch/neo-fetch/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-fetch&langs_count=10&layout=compact&bg_color=0,141e30,0f141e&title_color=fff&text_color=fff&hide=jupyter%20notebook,html,java)](https://github.com/neo-fetch/neo-fetch)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-fetch&langs_count=10&layout=compact&bg_color=0,141e30,0f141e&title_color=fff&text_color=fff&hide=jupyter%20notebook,html)](https://github.com/neo-fetch/neo-fetch)
