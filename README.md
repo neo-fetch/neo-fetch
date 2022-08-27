@@ -9,4 +9,4 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 # Commit wall:
-![GitHub Snake dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/neo-fetch/neo-fetch/output/github-contribution-grid-snake-dark.svg)
